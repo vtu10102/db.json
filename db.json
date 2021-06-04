@@ -1,10 +1,31 @@
 [
+    [
     {
-    'title':'fname',
-      'body':'description'
+        "fname": "tharun",
+        "lname": "krishna",
+        "bday": "2002-02-07",
+        "mail": "tharun@123",
+        "phno": "1234567890",
+        "subject": "Data Base Management System",
+        "gender": "male"
+    },
+    {
+        "fname": "lahari",
+        "lname": "joshma",
+        "bday": "2018-06-13",
+        "mail": "lahari@456",
+        "phno": "0987654321",
+        "subject": "Internet Programming",
+        "gender": "female"
+    },
+    {
+        "fname": "shiva",
+        "lname": "shankar",
+        "bday": "2018-06-13",
+        "mail": "shiva@456",
+        "phno": "0987654321",
+        "subject": "Internet Programming",
+        "gender": "male"
     }
-     {
-    'title':'fname',
-      'body':'description'
-    }
+]
 ]
